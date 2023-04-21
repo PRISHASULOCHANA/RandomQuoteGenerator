@@ -1,0 +1,18 @@
+.section_padding{
+    padding:2rem 2rem;
+}
+.Footer{
+    background-color:#c83a57;;
+}
+.socialmedia {
+    display: flex;
+    flex-direction: row;
+  }
+  .socialmedia > a {
+    margin-right: .5rem;
+    width: 5%;
+    padding: .4rem .4rem;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 200%;
+  }
